@@ -32,6 +32,6 @@
   <a href = "mailto:fantiny.santos@icen.ufpa.br"><img src="https://img.shields.io/badge/-fantiny.santos@icen.ufpa.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fantiny-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/FantySantos/FantySantos/blob/output/github-contribution-grid-snake.svg)
   
 </div>
