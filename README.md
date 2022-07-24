@@ -11,9 +11,8 @@
 <div align="center">
   <a href="https://github.com/FantySantos">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FantySantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantySantos&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
-
+ 
 <div style="display: inline_block"><br>
   <img align="center" alt="Fanty-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   <img align="center" alt="Fanty-Pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
