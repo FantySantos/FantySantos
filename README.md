@@ -2,7 +2,6 @@
 
 - 🎓 Estudante de Sistemas de Informação - UFPA 2/9
 - 🤖 IAÇÁ - Grupo de Robótica Feminino @iacaufpa
-- 🐍 Aprendendo Python
 
 ##
 
