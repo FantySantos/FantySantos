@@ -10,19 +10,13 @@
 </div>
 
 ##
-
-<div align="center">
-  <a href="https://github.com/ivangrana">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fantysantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantysantos&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
  
-<!-- <div>
+<div>
   <a href="https://github.com/fantysantos">
   <img height="210em" src="https://github-readme-stats.vercel.app/api?username=fantysantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantysantos&layout_count=compact&langs_count=7&theme=great-gatsby"/>
   </a>
-</div> -->
+</div>
 
 ##
 
