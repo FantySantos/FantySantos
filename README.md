@@ -12,9 +12,8 @@
 ##
  
 <div>
-  <a href="https://github.com/fantysantos">
-  <img height="210em" src="https://github-readme-stats.vercel.app/api?username=fantysantos&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  </a>
+ <a href="https://github.com/FantySantos/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=FantySantos&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/></a>
+ <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantySantos&layout=compact&theme=buefy&hide_border=true"/></a>
 </div>
 
 ##
