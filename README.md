@@ -12,7 +12,7 @@
 ##
  
 <div align="center">
-  <a href="https://github.com/anuraghazra">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=fantysantos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantysantos&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
