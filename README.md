@@ -13,8 +13,8 @@
  
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fantysantos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantysantos&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api?username=fantysantos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img height="158em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fantysantos&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
 
 ##
@@ -27,14 +27,12 @@
   <img align="center" alt="Fanty-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fanty-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
   <img align="center" alt="Fanty-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="right" alt="Rafa-pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/T26Sjv1.png?width=676&height=676">
+  <img align="right" alt="Fanty" height="150" style="border-radius:50px;" src="https://i.imgur.com/T26Sjv1.png?width=676&height=676">
 </div>
 
 ##
 
 <div> 
-  <a href="https://instagram.com/fanty_ty" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:fantiny.santos@icen.ufpa.br"><img src="https://img.shields.io/badge/-fantiny.santos@icen.ufpa.br-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/fantiny-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
   ![Snake animation](https://github.com/FantySantos/FantySantos/blob/output/github-contribution-grid-snake.svg)
