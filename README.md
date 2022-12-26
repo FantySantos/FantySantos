@@ -1,6 +1,6 @@
 ## Oiii! Eu sou a Fantiny, tudo bem? 😊
 
-- 🎓 Estudante de Sistemas de Informação - UFPA 2/9
+- 🎓 Estudante de Sistemas de Informação - UFPA
 - 🤖 IAÇÁ - Grupo de Robótica Feminino @iacaufpa
 
 ##
