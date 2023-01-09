@@ -29,12 +29,3 @@
   <img align="center" alt="Fanty-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="Fanty" height="150" style="border-radius:50px;" src="https://i.imgur.com/T26Sjv1.png?width=676&height=676">
 </div>
-
-##
-
-<div> 
-  <a href="https://www.linkedin.com/in/fantiny-santos" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/FantySantos/FantySantos/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
