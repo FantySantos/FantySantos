@@ -24,8 +24,6 @@
   <img align="center" alt="Fanty-Pandas" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg">
   <img align="center" alt="Fanty-Jupyter" height="50" width="60" src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg">
   <img align="center" alt="Fanty-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="Fanty-VSCode" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Fanty-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  <img align="center" alt="Fanty-Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
   <img align="right" alt="Fanty" height="150" style="border-radius:50px;" src="https://i.imgur.com/T26Sjv1.png?width=676&height=676">
 </div>
