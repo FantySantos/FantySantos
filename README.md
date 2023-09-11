@@ -12,14 +12,6 @@
   <img align="center" alt="Fanty-C++" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
   <img align="center" alt="Fanty-Arduino" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
 </div>
-
-##
- 
-<div align="center">
- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FantySantos&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FantySantos&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
  
  ##
  
